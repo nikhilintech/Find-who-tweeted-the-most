@@ -1,4 +1,4 @@
-﻿Assignment: Find who tweeted the most!
+﻿Problem: Find who tweeted the most!
 
 You will be given a list of tweets
 Your program should find the user who has tweeted the most
@@ -29,7 +29,7 @@ sehwag tweet_id_2
 sachin tweet_id_3
 sachin tweet_id_4
 
-Output
+Output:
 sachin 3
 
 
@@ -44,7 +44,7 @@ sehwag tweet_id_4
 kohli tweet_id_5
 kohli tweet_id_6
 
-Output
+Output:
 kohli 2
 sachin 2
 sehwag 2
@@ -66,12 +66,7 @@ dhoni tweet_id_13
 dhoni tweet_id_14
 
 
-Output
+Output:
 sachin 2
 Sehwag 2
 dhoni 4
-
-
-Note: 
-Use Python 3
-Follow python coding style guide
